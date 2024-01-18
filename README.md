@@ -11,4 +11,4 @@ ___
 
 <br>
 
-If you are looking for more feature-rich tools, please get in touch with us at email: chaixiujuan@caas.cn
+If you are looking for a more feature-rich tool, please get in touch with us at email: chaixiujuan@caas.cn
