@@ -16,9 +16,9 @@ ___
 
 **You can get our demo from the releases. The latest version is [CSHTNet-beta.1](https://github.com/starduct/CSHTNet/releases/tag/demo-beta.1 "Click to the download page.") The model selected in the demo is CSHTNet-S, which requires less memory.**
 
-## code acquisition
+## code and dataset acquisition
 
-**Our code is in the CSHTNet folder.**
+**Our code is in the CSHTNet_code folder. The dataset can be found in the CSHT_Net/data**
 
 <br>
 
